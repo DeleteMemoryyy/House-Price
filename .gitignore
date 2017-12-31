@@ -1,4 +1,5 @@
 net/
+fine_tune.py
 
 # IDE and editor files
 .idea/
