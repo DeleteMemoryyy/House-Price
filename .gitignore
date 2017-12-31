@@ -6,6 +6,7 @@ fine_tune.py
 .vscode/
 .cache/
 .ipynb_checkpoints/
+__pycache__/
 
 # Prerequisites
 *.d
